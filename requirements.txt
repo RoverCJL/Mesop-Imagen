@@ -1,0 +1,8 @@
+mesop
+vertexai
+huggingface_hub
+python-dotenv
+diffusers
+transformers
+optimum.quanto
+torch
